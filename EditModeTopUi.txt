@@ -1,0 +1,6 @@
+ ________________________________________________________________________________
+|                                                                                |
+| Wall : # | coins : $ | Door-Right : [ | Door-Left : ] | Key : k | Exit Key : % |
+|                                                                                |
+|     Player : @ | Exit : x | Bomb : * | disarmer : ! | Eraser : e               | 
+|                                                                                |
